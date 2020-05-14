@@ -1,0 +1,2 @@
+# tamagotchi
+ejercicio tamagotchi java
